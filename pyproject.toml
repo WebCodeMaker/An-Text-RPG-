@@ -1,0 +1,8 @@
+[project]
+name = "an-text-rpg"
+version = "0.1.0"
+description = "Complex terminal RPG"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
